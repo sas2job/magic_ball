@@ -16,6 +16,10 @@ Run the script file
 
 The program requires Ruby version 2.6
 
+## Online Demo
+
+[Link](https://repl.it/@Updraft/magicball)
+
 ## Running
 
 ```
